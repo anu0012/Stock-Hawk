@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Stock Hawk</string>
+
+    <string name="pref_stocks_initialized_key" translatable="false">initialized</string>
+
+    <string name="pref_stocks_key">stocks</string>
+
+
+    <string name="pref_display_mode_key">displayMode</string>
+    <string name="pref_display_mode_default">@string/pref_display_mode_percentage_key</string>
+
+    <string name="pref_display_mode_absolute_key">absolute</string>
+    <string name="pref_display_mode_percentage_key">percentage</string>
+
+    <string name="default_stocks_yahoo">YHOO</string>
+    <string name="default_stocks_apple">AAPL</string>
+    <string name="default_stocks_microsoft">MSFT</string>
+    <string name="default_stocks_facebook">FB</string>
+
+
+    <string name="action_change_units">@string/pref_display_mode_key</string>
+
+
+    <string name="dialog_title">Add Stock</string>
+    <string name="dialog_hint">Symbol (e.g. GOOG)</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_add">Add</string>
+
+    <string name="error_no_network">No network connectivity! Will load stock cursor when the network is available.</string>
+    <string name="error_no_stocks">No stocks added! Hit the floating action button to add one.</string>
+
+    <string name="toast_stock_added_no_connectivity">Symbol %s added. Will refresh when network available.</string>
+    <string name="toast_no_connectivity">Will refresh when network available.</string>
+    <string name="toast_error_fetching">No records found for the symbol</string>
+    <string name="detail_label">Details</string>
+    <string name="no_stock_data">No Stock Data</string>
+    <string name="description_stock_price">Stock price</string>
+    <string name="description_symbol_dialog">Stock symbol dialog</string>
+    <string name="description_stock_change">Price change</string>
+    <string name="description_stock_symbol">Stock symbol</string>
+    <string name="description_stocks_list">Stocks list</string>
+    <string name="chart_description"></string>
+    <string name="description_add_stock_button">Add Stock button</string>
+    <string name="stock_price_graph_label">Stock Price</string>
+
+</resources>
