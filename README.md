@@ -2,13 +2,13 @@
 
 This is the final code for Stock hawk project in Udacity's [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801). 
 
-![alt tag](img/Screenshot_2017-03-05-13-39-54.jpg)
+
+<img src="img/Screenshot_2017-03-05-13-39-54.jpg" width="300" height="500">
+
+<img src="img/Screenshot_2017-03-05-13-40-02.jpg" width="300" height="500">
 
 
-![alt tag](img/Screenshot_2017-03-05-13-40-02.jpg)
-
-
-![alt tag](img/Screenshot_2017-03-05-13-40-09.jpg)
+<img src="img/Screenshot_2017-03-05-13-40-09.jpg" width="300" height="500">
 
 # Thinks I learned
 
