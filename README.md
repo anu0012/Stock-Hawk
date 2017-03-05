@@ -1,6 +1,19 @@
 # Stock Hawk
 
-This is the final code for project 3 in Udacity's [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801). 
+This is the final code for Stock hawk project in Udacity's [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801). 
+
+![alt tag](img/Screenshot_2017-03-05-13-39-54.jpg)
+
+
+![alt tag](img/Screenshot_2017-03-05-13-40-02.jpg)
+
+
+![alt tag](img/Screenshot_2017-03-05-13-40-09.jpg)
+
+# Thinks I learned
+
+- How to use third party library
+- How to add a widget
 
 # Contrubuting
 
